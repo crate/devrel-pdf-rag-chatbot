@@ -46,7 +46,7 @@ You'll also need an OpenAI API key with sufficient credits to run the code.  Obt
 Next you'll need to get a copy of the code from GitHub by cloning the repository.  Open up your terminal and change directory to wherever you store coding projects, then enter the following commands:
 
 ```bash
-git clone https://github.com/crate/devrel-offshore-wind-farms-demo.git
+git clone https://github.com/crate/devrel-pdf-rag-chatbot.git
 cd devrel-pdf-rag-chatbot
 ```
 
